@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appsec on Blog | Stephanie Wilkinson</title>
+    <link>https://blog-b11ed.firebaseapp.com/tags/appsec/</link>
+    <description>Recent content in Appsec on Blog | Stephanie Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2017 10:23:50 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog-b11ed.firebaseapp.com/tags/appsec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capture the Flag at Ruby in Hollywood</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2017-10-25-capture-the-flag/</link>
+      <pubDate>Thu, 26 Oct 2017 10:23:50 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2017-10-25-capture-the-flag/</guid>
+      <description>The idea Last night, Ruby in Hollywood held its first ever Capture the Flag event. Jake Wilkins had the idea for us to attack OWASP Juice Shop, which is a node.js app full of security vulnerabilities. I did some research about CTFs and thought it sounded like a great idea. I sent around this video from UCSB&amp;rsquo;s white hat team to all Ruby in Hollywood members so they could prepare.</description>
+    </item>
+    
+  </channel>
+</rss>

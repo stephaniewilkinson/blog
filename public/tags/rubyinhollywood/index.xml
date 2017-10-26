@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rubyinhollywood on Blog | Stephanie Wilkinson</title>
+    <link>https://blog-b11ed.firebaseapp.com/tags/rubyinhollywood/</link>
+    <description>Recent content in Rubyinhollywood on Blog | Stephanie Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2017 10:23:50 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog-b11ed.firebaseapp.com/tags/rubyinhollywood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capture the Flag at Ruby in Hollywood</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2017-10-25-capture-the-flag/</link>
+      <pubDate>Thu, 26 Oct 2017 10:23:50 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2017-10-25-capture-the-flag/</guid>
+      <description>The idea Last night, Ruby in Hollywood held its first ever Capture the Flag event. Jake Wilkins had the idea for us to attack OWASP Juice Shop, which is a node.js app full of security vulnerabilities. I did some research about CTFs and thought it sounded like a great idea. I sent around this video from UCSB&amp;rsquo;s white hat team to all Ruby in Hollywood members so they could prepare.</description>
+    </item>
+    
+    <item>
+      <title>How I Got Started in Tech</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2017-06-02-how-i-got-started-in-tech/</link>
+      <pubDate>Fri, 02 Jun 2017 14:14:28 +0000</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2017-06-02-how-i-got-started-in-tech/</guid>
+      <description>Q: How did you get started in tech? A: After graduating from college, I landed an internship at a public charter school in DC. The school was fantastic, but it didn&amp;rsquo;t have a website. Wanting to fix that, I was excited when my coworker told me about something called Wordpress, and their quick installation. After checking it out, I realized it wasn&amp;rsquo;t that difficult, and decided to build it. After that, I was hooked.</description>
+    </item>
+    
+    <item>
+      <title>Ruby in Hollywood &#43; General Assembly</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2016-08-10-rubyinhollywood-generalassembly/</link>
+      <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2016-08-10-rubyinhollywood-generalassembly/</guid>
+      <description>Wonderful world of ReactJS Last night, Ruby in Hollywood held a special event in conjunction with the General Assembly Alumni Guild.
+We had a great mix of aspiring and current Rubyists, along with a good representation of General Assembly Grads from Cohort 9.
+We kicked off the evening with pizza and beer, and some good conversation.
+Using Docker in Production for Fun and Profit Rob Wilkinson Next up, Rob Wilkinson, CTO of Oddball.</description>
+    </item>
+    
+  </channel>
+</rss>
