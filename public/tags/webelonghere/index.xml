@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webelonghere on Blog | Stephanie Wilkinson</title>
+    <link>https://blog-b11ed.firebaseapp.com/tags/webelonghere/</link>
+    <description>Recent content in webelonghere on Blog | Stephanie Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 13:30:58 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog-b11ed.firebaseapp.com/tags/webelonghere/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Journey as an Engineer | Episode 3 of We Belong Here Podcast</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2019-03-22-my-tech-journey/</link>
+      <pubDate>Sat, 27 Apr 2019 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2019-03-22-my-tech-journey/</guid>
+      <description>I met Lauren Lee at RubyConf 2017 in New Orleans and I&amp;rsquo;ve been so impressed with her ever since. She&amp;rsquo;s started a podcast called &amp;ldquo;We Belong Here&amp;rdquo;. She&amp;rsquo;s detailing stories of unconventional journeys in tech.
+Lauren and I sat down and talked about my journey in tech—how I went from creating Wordpress sites for schools to leading an engineering team at a national education organization. Take a listen here!</description>
+    </item>
+    
+  </channel>
+</rss>

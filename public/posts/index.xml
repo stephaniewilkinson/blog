@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog | Stephanie Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 10:23:50 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 13:30:58 -0700</lastBuildDate>
     
 	<atom:link href="https://blog-b11ed.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Journey as an Engineer | Episode 3 of We Belong Here Podcast</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2019-03-22-my-tech-journey/</link>
+      <pubDate>Sat, 27 Apr 2019 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2019-03-22-my-tech-journey/</guid>
+      <description>I met Lauren Lee at RubyConf 2017 in New Orleans and I&amp;rsquo;ve been so impressed with her ever since. She&amp;rsquo;s started a podcast called &amp;ldquo;We Belong Here&amp;rdquo;. She&amp;rsquo;s detailing stories of unconventional journeys in tech.
+Lauren and I sat down and talked about my journey in tech—how I went from creating Wordpress sites for schools to leading an engineering team at a national education organization. Take a listen here!</description>
+    </item>
     
     <item>
       <title>Capture the Flag at Ruby in Hollywood</title>
@@ -18,15 +28,6 @@
       
       <guid>https://blog-b11ed.firebaseapp.com/posts/2017-10-25-capture-the-flag/</guid>
       <description>The idea Last night, Ruby in Hollywood held its first ever Capture the Flag event. Jake Wilkins had the idea for us to attack OWASP Juice Shop, which is a node.js app full of security vulnerabilities. I did some research about CTFs and thought it sounded like a great idea. I sent around this video from UCSB&amp;rsquo;s white hat team to all Ruby in Hollywood members so they could prepare.</description>
-    </item>
-    
-    <item>
-      <title>How I Got Started in Tech</title>
-      <link>https://blog-b11ed.firebaseapp.com/posts/2017-06-02-how-i-got-started-in-tech/</link>
-      <pubDate>Fri, 02 Jun 2017 14:14:28 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/posts/2017-06-02-how-i-got-started-in-tech/</guid>
-      <description>Q: How did you get started in tech? A: After graduating from college, I landed an internship at a public charter school in DC. The school was fantastic, but it didn&amp;rsquo;t have a website. Wanting to fix that, I was excited when my coworker told me about something called Wordpress, and their quick installation. After checking it out, I realized it wasn&amp;rsquo;t that difficult, and decided to build it. After that, I was hooked.</description>
     </item>
     
     <item>
@@ -39,40 +40,6 @@
 We had a great mix of aspiring and current Rubyists, along with a good representation of General Assembly Grads from Cohort 9.
 We kicked off the evening with pizza and beer, and some good conversation.
 Using Docker in Production for Fun and Profit Rob Wilkinson Next up, Rob Wilkinson, CTO of Oddball.</description>
-    </item>
-    
-    <item>
-      <title>IPM for Week Three</title>
-      <link>https://blog-b11ed.firebaseapp.com/posts/2014-07-14-ipm-for-week-three/</link>
-      <pubDate>Mon, 14 Jul 2014 12:55:12 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/posts/2014-07-14-ipm-for-week-three/</guid>
-      <description>Date: 14 July 2014 Author: Stephanie
-IPM for Week Three On Monday, Pat, Stephanie, Wale, Josh, Rob, and Jalil met with Pivots Mike and Ryan for our Week Three IPM. We planned out what stories would get done this week, along with a short recap of highs and lows from last week.
-While reviewing last week, a few issues came to light. On the positive side, we were excited to have new team members, great coaching, and happy to be making progress.</description>
-    </item>
-    
-    <item>
-      <title>Planning and Pointing Stories</title>
-      <link>https://blog-b11ed.firebaseapp.com/posts/2014-07-07-planning-and-pointing-stories/</link>
-      <pubDate>Mon, 07 Jul 2014 12:53:57 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/posts/2014-07-07-planning-and-pointing-stories/</guid>
-      <description>Date: 7 July 2014 Author: Stephanie
-Day 4 - Planning and Pointing Stories After creating stories last week, today was the day to give the stories points. Wale, Jen and Stephanie (with Josh on a Google Hangout) met with Pivots Ryan and Mike to evaluate and plan our stories.
-We used Fibonacci numbers, 1, 3, 5, 8 to assign value to the stories. Pivot Ryan explained that pointing stories is not about determining the time it takes to complete the story, but the complexity.</description>
-    </item>
-    
-    <item>
-      <title>One Method, One Library</title>
-      <link>https://blog-b11ed.firebaseapp.com/posts/2014-07-01-one-method-one-library/</link>
-      <pubDate>Tue, 01 Jul 2014 12:51:45 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/posts/2014-07-01-one-method-one-library/</guid>
-      <description>Date: 1 July 2014 Author: Stephanie
-Day 2 - One Method, One Library Today Jen, Wale and Stephanie worked with Mike McCormick. We spent some time brainstorming about which library to work with first.
-We decided to go with net/http. Users can get URI info with net/http using the &amp;lsquo;get&amp;rsquo; method. There is a class method and an instance method.
-Using a person and a gender as a metaphor, We created a Person class and defined a gender method.</description>
     </item>
     
   </channel>

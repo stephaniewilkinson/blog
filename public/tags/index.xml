@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Blog | Stephanie Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 10:23:50 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 13:30:58 -0700</lastBuildDate>
     
 	<atom:link href="https://blog-b11ed.firebaseapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>personal</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/personal/</link>
+      <pubDate>Sat, 27 Apr 2019 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/podcast/</link>
+      <pubDate>Sat, 27 Apr 2019 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webelonghere</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/webelonghere/</link>
+      <pubDate>Sat, 27 Apr 2019 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/webelonghere/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>appsec</title>
@@ -75,51 +102,6 @@
     </item>
     
     <item>
-      <title>bootcamp</title>
-      <link>https://blog-b11ed.firebaseapp.com/tags/bootcamp/</link>
-      <pubDate>Fri, 02 Jun 2017 14:14:28 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/tags/bootcamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interview</title>
-      <link>https://blog-b11ed.firebaseapp.com/tags/interview/</link>
-      <pubDate>Fri, 02 Jun 2017 14:14:28 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/tags/interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>javascript</title>
-      <link>https://blog-b11ed.firebaseapp.com/tags/javascript/</link>
-      <pubDate>Fri, 02 Jun 2017 14:14:28 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ruby</title>
-      <link>https://blog-b11ed.firebaseapp.com/tags/ruby/</link>
-      <pubDate>Fri, 02 Jun 2017 14:14:28 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/tags/ruby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://blog-b11ed.firebaseapp.com/tags/tech/</link>
-      <pubDate>Fri, 02 Jun 2017 14:14:28 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ReactJS</title>
       <link>https://blog-b11ed.firebaseapp.com/tags/reactjs/</link>
       <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
@@ -129,11 +111,29 @@
     </item>
     
     <item>
+      <title>javascript</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/javascript/</link>
+      <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>meetup</title>
       <link>https://blog-b11ed.firebaseapp.com/tags/meetup/</link>
       <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
       
       <guid>https://blog-b11ed.firebaseapp.com/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/ruby/</link>
+      <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/ruby/</guid>
       <description></description>
     </item>
     
