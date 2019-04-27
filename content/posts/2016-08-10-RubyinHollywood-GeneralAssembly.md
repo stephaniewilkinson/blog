@@ -1,6 +1,7 @@
 ---
 title: Ruby in Hollywood + General Assembly
 date: 2016-07-14 12:25:33
+featured_image: "https://albumizr.com/ia/48b798b7eeebe927d949154da5ef3e3a.jpg"
 tags:
 - rubyinhollywood
 - ruby

@@ -1,6 +1,7 @@
 ---
 title: "Capture the Flag at Ruby in Hollywood"
 date: 2017-10-26T10:23:50-07:00
+featured_image: "/juiceshop.png"
 tags:
 - rubyinhollywood
 - appsec
