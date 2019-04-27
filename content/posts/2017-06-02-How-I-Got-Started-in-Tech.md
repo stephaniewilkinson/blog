@@ -1,6 +1,7 @@
 ---
 title: How I Got Started in Tech
 date: 2017-06-02 14:14:28
+draft: true
 tags:
 - tech
 - ruby

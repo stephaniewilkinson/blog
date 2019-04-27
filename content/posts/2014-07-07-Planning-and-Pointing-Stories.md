@@ -1,10 +1,11 @@
 ---
 title: Planning and Pointing Stories
 date: 2014-07-07 12:53:57
+draft: true
 tags:
 ---
 Date: 7 July 2014
-Author: Stephanie 
+Author: Stephanie
 # Day 4 - Planning and Pointing Stories
 
 After creating stories last week, today was the day to give the stories points. Wale, Jen and Stephanie (with Josh on a Google Hangout) met with Pivots Ryan and Mike to evaluate and plan our stories.

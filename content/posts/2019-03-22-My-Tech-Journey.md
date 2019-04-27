@@ -1,7 +1,6 @@
 ---
 title: "My Journey as an Engineer | Episode 3 of We Belong Here Podcast"
 date: 2019-04-27T13:30:58-07:00
-draft: false
 tags:
 - podcast
 - personal
