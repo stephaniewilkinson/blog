@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog | Stephanie Wilkinson</title>
@@ -102,15 +102,6 @@
     </item>
     
     <item>
-      <title>ReactJS</title>
-      <link>https://blog-b11ed.firebaseapp.com/tags/reactjs/</link>
-      <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/tags/reactjs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>javascript</title>
       <link>https://blog-b11ed.firebaseapp.com/tags/javascript/</link>
       <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
@@ -125,6 +116,15 @@
       <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
       
       <guid>https://blog-b11ed.firebaseapp.com/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReactJS</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/reactjs/</link>
+      <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/reactjs/</guid>
       <description></description>
     </item>
     
