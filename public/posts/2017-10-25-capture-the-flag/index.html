@@ -9,7 +9,7 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.59.0" />
+    <meta name="generator" content="Hugo 0.79.0" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -36,8 +36,6 @@
 <meta property="article:modified_time" content="2017-10-26T10:23:50-07:00" />
 <meta itemprop="name" content="Capture the Flag at Ruby in Hollywood">
 <meta itemprop="description" content="The idea Last night, Ruby in Hollywood held its first ever Capture the Flag event. Jake Wilkins had the idea for us to attack OWASP Juice Shop, which is a node.js app full of security vulnerabilities. I did some research about CTFs and thought it sounded like a great idea. I sent around this video from UCSB&rsquo;s white hat team to all Ruby in Hollywood members so they could prepare.">
-
-
 <meta itemprop="datePublished" content="2017-10-26T10:23:50-07:00" />
 <meta itemprop="dateModified" content="2017-10-26T10:23:50-07:00" />
 <meta itemprop="wordCount" content="509">
@@ -160,65 +158,40 @@
       
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
-
-<h2 id="the-idea">The idea</h2>
-
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="the-idea">The idea</h2>
 <p>Last night, Ruby in Hollywood held its first ever Capture the Flag event. <a href="http://www.jakewilkins.com/" title="Jake Wilkins">Jake Wilkins</a> had the idea for us to attack <a href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project" title="OWASP">OWASP Juice Shop</a>, which is a node.js app full of security vulnerabilities. I did some research about CTFs and thought it sounded like a great idea. I sent around this video from UCSB&rsquo;s white hat team to all <a href="rubyinhollywood.com" title="Ruby in Hollywood">Ruby in Hollywood</a> members so they could prepare.</p>
-
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/bxt-JidP3bU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
 <h2 id="the-setup">The setup</h2>
-
 <h3 id="sponsor">Sponsor</h3>
-
 <p><a href="https://colleenmcguckin.com/">Colleen&rsquo;s</a> work <a href="https://ethn.io/">Ethnio</a> sponsored pizza and let us use their space to hack. Thanks to Colleen and Ethnio!</p>
-
 <h3 id="scoreboard">Scoreboard</h3>
-
 <p>I launched an app called <a href="https://github.com/CTFd/CTFd" title="CTFd">CTFd</a>, which is basically a scoreboard and list of challenges for people to complete.I served up the CTFd app on the local network, so that everybody participating could log their completions.</p>
-
 <p>Normally there are two types of CTF, either you do Jeopardy style, or you can do attack/defense. For this one, we did Jeopardy style. Each challenge was graded by difficulty, and as the difficulty increased, so did the amount of points you would get if you won.</p>
-
 <p>Here&rsquo;s the jeopardy challenge board:
-<img src="/jeopardy.png" alt="" title="Challenges Board" /></p>
-
+<img src="/jeopardy.png" alt="" title="Challenges Board"></p>
 <h3 id="experience-with-ctfs">Experience with CTFs</h3>
-
 <p>Most of us had never done a CTF before, and so were unsure how to get started. We had a bunch of interest from people who looked like they may have been more experienced CTF hackers. That was really cool to see, that there is definitely interest in CTFs here in our backyard. But for the rest of us, it was a great way to dive in.</p>
-
 <h3 id="juice-shop">Juice Shop</h3>
-
-<p><img src="/juiceshop.png" alt="" title="JuiceShop" /></p>
-
+<p><img src="/juiceshop.png" alt="" title="JuiceShop"></p>
 <p>Juice Shop is an app specifically created to be vulnerable. There are about 50 flags you can get out of the app by completing challenges. When you complete a challenge, it gives you a code, or &ldquo;flag&rdquo;. You can then enter it in the scoreboard app that I set up to get your points. The challenges are in categories from cross-site scripting, to account hacks, to SQL injection. It doesn&rsquo;t matter what order you do them in, but usually people start with the easier ones.</p>
-
 <h2 id="ready-set-hack">Ready, set, hack!</h2>
-
 <p>Everybody got started by cloning Juice Shop locally in CTF mode (<code>NODE_ENV=ctf npm start</code>). Then each person had an instance of Juice Shop running on their machine and started hacking.</p>
-
 <p>People paired up in teams for the most part, and talked out different ways they could attack the app. Juice Shop is one of the most popular apps for CTFs, so we were on the honor system not to google &ldquo;juice shop vulnerabilities&rdquo;, because that would have given us all the answers.</p>
-
 <p>The first couple challenges were out of the way pretty soon, and people got to work on some XSS, SQL injection, and rainbow tables.</p>
-
 <p>We ended up staying way later than usual, until about 10:30, when everyone&rsquo;s batteries started to die. In the end, here were the final rankings:</p>
-
 <ol>
 <li>Shannon and Colleen (and Jake?)</li>
 <li>Roy and Vicken</li>
 <li>Ernesto and Steph</li>
 <li>Yanny also got a bunch of flags but couldn&rsquo;t access the scoreboard to log his points.</li>
 </ol>
-
-<p><img src="/scoreboard.png" alt="" title="CTFd Scoreboard" /></p>
-
-<h2 id="great-work-to-everybody-who-participated-we-ll-plan-another-ctf-soon">Great work to everybody who participated! We&rsquo;ll plan another CTF soon</h2>
-
-<p><img src="/juiceshopflag.png" alt="" title="JuiceShop" /></p>
+<p><img src="/scoreboard.png" alt="" title="CTFd Scoreboard"></p>
+<h2 id="great-work-to-everybody-who-participated-well-plan-another-ctf-soon">Great work to everybody who participated! We&rsquo;ll plan another CTF soon</h2>
+<p><img src="/juiceshopflag.png" alt="" title="JuiceShop"></p>
 <ul class="pa0">
   
    <li class="list">
@@ -279,7 +252,7 @@
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://blog-b11ed.firebaseapp.com/" >
-    &copy; 2019 Blog | Stephanie Wilkinson
+    &copy; 2020 Blog | Stephanie Wilkinson
   </a>
     <div>
 

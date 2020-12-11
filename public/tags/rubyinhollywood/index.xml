@@ -6,11 +6,7 @@
     <description>Recent content in rubyinhollywood on Blog | Stephanie Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 10:23:50 -0700</lastBuildDate>
-    
-	<atom:link href="https://blog-b11ed.firebaseapp.com/tags/rubyinhollywood/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 26 Oct 2017 10:23:50 -0700</lastBuildDate><atom:link href="https://blog-b11ed.firebaseapp.com/tags/rubyinhollywood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capture the Flag at Ruby in Hollywood</title>
       <link>https://blog-b11ed.firebaseapp.com/posts/2017-10-25-capture-the-flag/</link>
@@ -29,7 +25,7 @@
       <description>Wonderful world of ReactJS Last night, Ruby in Hollywood held a special event in conjunction with the General Assembly Alumni Guild.
 We had a great mix of aspiring and current Rubyists, along with a good representation of General Assembly Grads from Cohort 9.
 We kicked off the evening with pizza and beer, and some good conversation.
-Using Docker in Production for Fun and Profit Rob Wilkinson Next up, Rob Wilkinson, CTO of Oddball.</description>
+ Using Docker in Production for Fun and Profit Rob Wilkinson Next up, Rob Wilkinson, CTO of Oddball.</description>
     </item>
     
   </channel>

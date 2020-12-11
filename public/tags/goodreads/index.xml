@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goodreads on Blog | Stephanie Wilkinson</title>
+    <link>https://blog-b11ed.firebaseapp.com/tags/goodreads/</link>
+    <description>Recent content in Goodreads on Blog | Stephanie Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Dec 2020 13:30:58 -0700</lastBuildDate><atom:link href="https://blog-b11ed.firebaseapp.com/tags/goodreads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodreads shutters all APIs, breaking my open source app</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2020-12-10-yonderbook-and-goodreads/</link>
+      <pubDate>Thu, 10 Dec 2020 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2020-12-10-yonderbook-and-goodreads/</guid>
+      <description>Last night I got a very bad, no good email from Goodreads.
+It read:
+ Your Goodreads developer API key has been deactivated
+Goodreads has deactivated the Goodreads developer API key associated with your Goodreads account as it has not been used in more than 30 days. As of December 8th 2020, Goodreads will no longer issue new developer keys for our public developer API and plans to retire these tools.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,33 @@
     <description>Recent content in Tags on Blog | Stephanie Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 13:30:58 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 13:30:58 -0700</lastBuildDate><atom:link href="https://blog-b11ed.firebaseapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodreads</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/goodreads/</link>
+      <pubDate>Thu, 10 Dec 2020 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/goodreads/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://blog-b11ed.firebaseapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ruby</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/ruby/</link>
+      <pubDate>Thu, 10 Dec 2020 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/ruby/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>yonderbook</title>
+      <link>https://blog-b11ed.firebaseapp.com/tags/yonderbook/</link>
+      <pubDate>Thu, 10 Dec 2020 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/tags/yonderbook/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>personal</title>
@@ -125,15 +148,6 @@
       <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
       
       <guid>https://blog-b11ed.firebaseapp.com/tags/reactjs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ruby</title>
-      <link>https://blog-b11ed.firebaseapp.com/tags/ruby/</link>
-      <pubDate>Thu, 14 Jul 2016 12:25:33 +0000</pubDate>
-      
-      <guid>https://blog-b11ed.firebaseapp.com/tags/ruby/</guid>
       <description></description>
     </item>
     

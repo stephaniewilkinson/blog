@@ -6,10 +6,18 @@
     <description>Recent content in Posts on Blog | Stephanie Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 13:30:58 -0700</lastBuildDate>
-    
-	<atom:link href="https://blog-b11ed.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 10 Dec 2020 13:30:58 -0700</lastBuildDate><atom:link href="https://blog-b11ed.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodreads shutters all APIs, breaking my open source app</title>
+      <link>https://blog-b11ed.firebaseapp.com/posts/2020-12-10-yonderbook-and-goodreads/</link>
+      <pubDate>Thu, 10 Dec 2020 13:30:58 -0700</pubDate>
+      
+      <guid>https://blog-b11ed.firebaseapp.com/posts/2020-12-10-yonderbook-and-goodreads/</guid>
+      <description>Last night I got a very bad, no good email from Goodreads.
+It read:
+ Your Goodreads developer API key has been deactivated
+Goodreads has deactivated the Goodreads developer API key associated with your Goodreads account as it has not been used in more than 30 days. As of December 8th 2020, Goodreads will no longer issue new developer keys for our public developer API and plans to retire these tools.</description>
+    </item>
     
     <item>
       <title>My Journey as an Engineer | Episode 3 of We Belong Here Podcast</title>
@@ -39,7 +47,7 @@ Lauren and I sat down and talked about my journey in tech—how I went from crea
       <description>Wonderful world of ReactJS Last night, Ruby in Hollywood held a special event in conjunction with the General Assembly Alumni Guild.
 We had a great mix of aspiring and current Rubyists, along with a good representation of General Assembly Grads from Cohort 9.
 We kicked off the evening with pizza and beer, and some good conversation.
-Using Docker in Production for Fun and Profit Rob Wilkinson Next up, Rob Wilkinson, CTO of Oddball.</description>
+ Using Docker in Production for Fun and Profit Rob Wilkinson Next up, Rob Wilkinson, CTO of Oddball.</description>
     </item>
     
   </channel>

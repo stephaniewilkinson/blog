@@ -2,7 +2,6 @@
 title: "Goodreads shutters all APIs, breaking my open source app"
 subtitle: "Some subtitle"
 date: 2020-12-10T13:30:58-07:00
-draft: true
 featured_image: "/yonderbook_logo.png"
 tags:
 - ruby
